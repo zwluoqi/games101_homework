@@ -1,8 +1,8 @@
 # games101_homework
 闫老师games101课堂作业
 
-| 截图 | 截图 | 截图 | 截图 | 
-| --- | - | --- | --- |
+| 截图 | 截图 | 截图 | 
+| --- | - | --- | 
 | 1.旋转与投影 | 进行模型、视图、投影、视口等变换来将三角形显示在屏幕上 | ![](Assignment1/homeworkd1/images/output.png) | 
 | 2.三角形绘制 | 三角形绘制、深度检测、重心坐标等知识点 | ![](Homework2/HW2/images/normal.png) | 
 |  | 超采样、抗锯齿 | ![](Homework2/HW2/images/ssaa.png) | 
