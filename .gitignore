@@ -6,9 +6,8 @@ cmake-build-debug
 Homework8
 lib
 
-*.pdf
 *.zip
-
+*.DS_Store
 
 # Prerequisites
 *.d
